@@ -6,9 +6,9 @@ public class SammysMotto2 {
 		// TODO Auto-generated method stub
 		System.out.println("SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS");
 		System.out.println("sSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSs");
-		System.out.println("sSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSs");
+		System.out.println("sSS                               SSs");
 		System.out.println("s  Sammy's makes it fun in the sun  s");
-		System.out.println("sSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSs");
+		System.out.println("sSS                               SSs");
 		System.out.println("sSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSs");
 		System.out.println("sSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSs");
 	}
