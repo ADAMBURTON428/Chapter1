@@ -13,17 +13,18 @@ public class FreeLance {
 		int total;
 		Scanner inputDevice = new Scanner(System.in);
 		
-		System.out.println("What is your name:  ");
+		System.out.print("What is your name:  ");
 		name = inputDevice.next();
 		
-		System.out.println("Enter a number:  ");
+		System.out.print("Enter a number:  ");
 		num1 = inputDevice.nextInt();
 		
-		System.out.println("Enter another number:  ");
+		System.out.print("Enter another number:  ");
 		num2 = inputDevice.nextInt(); 
 		total = num1 + num2;
 		
-		Syste
+		System.out.println("Your name is " + name);
+		System.out.println("Your total is " + total);
 		
 	}
 
