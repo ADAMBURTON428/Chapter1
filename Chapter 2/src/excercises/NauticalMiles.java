@@ -9,10 +9,13 @@ public class NauticalMiles {
 		double kilometer2;
 		double miles = 1.150779;
 		double miles2;
-		double nauticalMiles;
+		double nauticalMiles = 60;
 		
-		kilomenter2 = kilo 
+		kilometer2 =  kilometer * nauticalMiles;
+		miles2 =  miles * nauticalMiles;
 		
+		System.out.println(kilometer2);
+		System.out.println(miles2);
 		
 		
 		
