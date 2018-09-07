@@ -14,8 +14,8 @@ public class NauticalMiles {
 		kilometer2 =  kilometer * nauticalMiles;
 		miles2 =  miles * nauticalMiles;
 		
-		System.out.println(kilometer2);
-		System.out.println(miles2);
+		System.out.println("Kilometer: " + kilometer2);
+		System.out.println("Miles: " + miles2);
 		
 		
 		
