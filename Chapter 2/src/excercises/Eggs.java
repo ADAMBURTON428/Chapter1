@@ -24,7 +24,7 @@ public class Eggs {
 			numberofCarton = eggsNeeded / dozen;
 			eggRemainging = eggsNeeded % dozen;
 			eggTotalCost = numberofCarton * dozenCost + eggRemainging * eggCost;
-			System.out.print("That will be $ " + eggTotalCost + " and " + numberofCarton 
+			System.out.print("That will be $ " + eggTotalCost + " for " + numberofCarton 
 					+ " Carton and " + eggRemainging + " spare eggs.");
 			
 		}
