@@ -13,7 +13,6 @@ public class Eggs {
 		int numberofCarton;
 		int eggRemainging;
 		double eggCost = 0.45;
-		int eggTotal;
 		double eggTotalCost;
 		Scanner input = new Scanner(System.in);
 		
